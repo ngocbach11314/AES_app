@@ -31,13 +31,13 @@ Trang web đơn giản cho phép người dùng mã hóa và giải mã file s�
 ![image](https://github.com/user-attachments/assets/3f9d1ffc-af72-4f83-a975-c94ae1397f2f)
 
 ## Cấu trúc
-/project_root
-  ├─ templates/
-  │   └─ index.html
-  ├─ static/
-  │   └─ style.css
-  ├─ app.py
-  └─ README.md
+project_root
+  - templates
+     + index.html
+  - static
+     + style.css
+  - app.py
+  - README.md
 
 Nghiêm Thị Ngọc Bích 
 CNTT 17-07
