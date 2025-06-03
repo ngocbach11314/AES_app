@@ -1,6 +1,6 @@
 # AES File Encryptor / Decryptor Web
 
-Trang web đơn giản cho phép người dùng mã hóa và giải mã file sử dụng thuật toán AES. Giao diện web được xây dựng bằng HTML, CSS (Bootstrap), JavaScript, và xử lý mã hóa/giải mã trên server bằng Flask (Python).
+Trang web đơn giản cho phép người dùng mã hóa và giải mã file sử dụng thuật toán AES 256 bite(14 vòng). Giao diện web được xây dựng bằng HTML, CSS (Bootstrap), JavaScript, và xử lý mã hóa/giải mã trên server bằng Flask (Python).
 
 ---
 
